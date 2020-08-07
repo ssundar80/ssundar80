@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ssundar80/ssundar80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I am a Product and Technology professional with 12 plus years experience in Business Analytics, Project Management and Product Marketing Management.
 
@@ -39,4 +37,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: samir.sundar@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My son shares the same birthday as his grandfather (my dad)
+<!--
+**ssundar80/ssundar80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
