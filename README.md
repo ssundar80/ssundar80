@@ -3,23 +3,23 @@
 
 I am a Product and Technology professional with 12 plus years experience in Business Analytics, Project Management and Product Marketing Management.
 
-#EDUCATION
-*M.S. in Business Information Technology: DePaul University, 
-*B.S. in Political Science: The University of Illinois Urbana-Champaign
+### EDUCATION
+..*M.S. in Business Information Technology: DePaul University, 
+..*B.S. in Political Science: The University of Illinois Urbana-Champaign
 
-#CERTIFICATIONS
+### CERTIFICATIONS
 *Data Analytics and Visualization Certificate: The University of Southern California (Trilogy)
 *Certified Project Management Professional
 *Certified Product Manager
 *Certified Product Owner/Scrum Master 
 
-#AREAS OF EXPERTISE
+### AREAS OF EXPERTISE
 *Experience with working with cross-functional teams to create user stories, acceptance criteria and prioritize tasks for each sprint
 *Writing concise documentation and clear understanding of business requirements
 *Effective written and verbal communication with external and internal stakeholders
 *Collaborating in both Waterfall and Agile environments with local and distributed teams. 
 
-#Technical Skills 
+### Technical Skills 
 *Excel
 *SQL
 *NoSQL
