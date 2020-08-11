@@ -5,7 +5,7 @@ I am a Product and Technology professional with 12 plus years experience in Busi
 
 ### EDUCATION
 * M.S. in Business Information Technology: DePaul University 
-  *B.S. in Political Science: The University of Illinois Urbana-Champaign
+* B.S. in Political Science: The University of Illinois Urbana-Champaign
 
 ### CERTIFICATIONS
 *Data Analytics and Visualization Certificate: The University of Southern California (Trilogy)
