@@ -4,7 +4,7 @@
 I am a Product and Technology professional with 12 plus years experience in Business Analytics, Project Management and Product Marketing Management.
 
 ### EDUCATION
-  *M.S. in Business Information Technology: DePaul University, 
+* M.S. in Business Information Technology: DePaul University 
   *B.S. in Political Science: The University of Illinois Urbana-Champaign
 
 ### CERTIFICATIONS
